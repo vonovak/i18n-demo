@@ -1,0 +1,10 @@
+{
+  "homescreen": {
+    "greeting": "Skvělá konference! Tato prezentace začíná v {{time}}",
+    "heading": "Vítejte na React Native EU 2022",
+    "metaStockPrice": "<0>Akcie META </0><2>dnes</2><1> vzrostly!</1>"
+  },
+  "peopleWatchingCount_few": "Mate {{count}} osoby, co se dívají",
+  "peopleWatchingCount_one": "Máte jednu osobu, která se dívá",
+  "peopleWatchingCount_other": "Máte {{count}} osob, co se dívají"
+}

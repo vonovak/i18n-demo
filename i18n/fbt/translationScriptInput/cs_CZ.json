@@ -1,0 +1,109 @@
+{
+    "fb-locale": "cs_CZ",
+    "translations": {
+        "d033409c79776121841ae87cbcc9400a": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "Vítejte na React Native EU",
+                    "variations": []
+                }
+            ]
+        },
+        "ff63b2ecfe8cf91027cd3ae547183e21": {
+            "tokens": [
+                "number_of_people"
+            ],
+            "types": [
+                28
+            ],
+            "translations": [
+                {
+                    "translation": "Máte {number of people} sledujících",
+                    "variations": [
+                        24
+                    ]
+                },
+                {
+                    "translation": "Máte {number of people} sledující",
+                    "variations": [
+                        20
+                    ]
+                },
+                {
+                    "translation": "Máte {number of people} sledujích",
+                    "variations": [
+                        12
+                    ]
+                },
+                {
+                    "translation": "Máte 1 člověka, který sleduje",
+                    "variations": [
+                        4
+                    ]
+                }
+            ]
+        },
+        "e8c3dae431139811d9a4b982d81d6d50": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "Máte 1 člověka, který sleduje",
+                    "variations": []
+                }
+            ]
+        },
+        "84cc8493c4381fcd75befdc0dcc0c22e": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "To je skvělá konference! Tato přednáška začíná v {startTime}.",
+                    "variations": []
+                }
+            ]
+        },
+        "2891f97af317371207b8b3848ef47e12": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "{=META stock} {=today!} {=went up} ",
+                    "variations": []
+                }
+            ]
+        },
+        "7484c057ba6d09998d688ae50047b658": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "akcie META",
+                    "variations": []
+                }
+            ]
+        },
+        "afa5264fb1b6fed6167aa87fced704fc": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "šly nahoru!",
+                    "variations": []
+                }
+            ]
+        },
+        "281512d85efec6ec3609b0a2dab583b5": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "dnes",
+                    "variations": []
+                }
+            ]
+        }
+    }
+}

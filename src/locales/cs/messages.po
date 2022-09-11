@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/LinguiComponent.tsx:25
+msgid "<0><1>META stock </1><2>went up</2><3> today!</3></0>"
+msgstr ""
+
+#: src/LinguiComponent.tsx:16
+msgid "Welcome to React Native EU 2022"
+msgstr ""
+
+#. comment for translator
+#: src/LinguiComponent.tsx:22
+msgid "homescreen.greeting"
+msgstr ""
+
+#: src/LinguiComponent.tsx:17
+msgid "{numOfPeopleWatching, plural, one {You have one person watching} other {You have {numOfPeopleWatching} people watching}}"
+msgstr ""

@@ -1,0 +1,9 @@
+{
+  "homescreen": {
+    "heading": "Welcome to React Native EU 2022",
+    "greeting": "What a great conf! This talk starts at {{time}}",
+    "metaStockPrice": "<0>META stock </0><1>went up</1><2> today!</2>"
+  },
+  "peopleWatchingCount_one": "You have one person watching",
+  "peopleWatchingCount_other": "You have {{count}} people watching"
+}
