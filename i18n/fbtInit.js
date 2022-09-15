@@ -15,6 +15,9 @@
 
 import { getTranslatedInput } from "./getTranslatedInput";
 import { init } from "fbt";
-init({ hooks: { getTranslatedInput } });
+init({
+  // translations: require("./fbt/translatedFbts.json"),
+  hooks: { getTranslatedInput },
+});
 
 export default {};

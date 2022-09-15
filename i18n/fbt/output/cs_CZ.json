@@ -1,1 +1,12 @@
-{"43ARRQ":"Vítejte na React Native EU","1hIiOI":{"*":"Máte {number of people} sledujících","_1":"Máte 1 člověka, který sleduje"},"1b4qJF":"To je skvělá konference! Tato přednáška začíná v {startTime}.","4qSvSY":"{=m0} {=m4} {=m2} ","2D2N9t":"akcie META","2TxWyf":"šly nahoru!","3W7J9S":"dnes"}
+{
+  "43ARRQ": "Vítejte na React Native EU",
+  "1hIiOI": {
+    "*": "Máte {number of people} sledujících",
+    "_1": "Máte 1 člověka, který sleduje"
+  },
+  "1b4qJF": "To je skvělá konference! Tato přednáška začíná v {startTime}.",
+  "4qSvSY": "{=m0} {=m4} {=m2} ",
+  "2D2N9t": "akcie META",
+  "2TxWyf": "šly nahoru!",
+  "3W7J9S": "dnes"
+}

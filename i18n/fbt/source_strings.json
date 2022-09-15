@@ -1,1 +1,164 @@
-{"phrases":[{"hashToLeaf":{"d033409c79776121841ae87cbcc9400a":{"text":"Welcome to React Native EU","desc":"label"}},"filepath":"src/FbtComponent.tsx","line_beg":21,"col_beg":8,"line_end":21,"col_end":58,"project":"","jsfbt":{"t":{"desc":"label","text":"Welcome to React Native EU"},"m":[]}},{"hashToLeaf":{"ff63b2ecfe8cf91027cd3ae547183e21":{"text":"You have {number of people} people watching","desc":"plural example"},"e8c3dae431139811d9a4b982d81d6d50":{"text":"You have 1 person watching","desc":"plural example"}},"filepath":"src/FbtComponent.tsx","line_beg":24,"col_beg":8,"line_end":35,"col_end":14,"project":"","jsfbt":{"t":{"*":{"desc":"plural example","text":"You have {number of people} people watching"},"_1":{"desc":"plural example","text":"You have 1 person watching"}},"m":[{"token":"number of people","type":2,"singular":true}]}},{"hashToLeaf":{"84cc8493c4381fcd75befdc0dcc0c22e":{"text":"What a great conf! This talk starts at {startTime}.","desc":"date interpolation"}},"filepath":"src/FbtComponent.tsx","line_beg":38,"col_beg":8,"line_end":41,"col_end":14,"project":"","jsfbt":{"t":{"desc":"date interpolation","text":"What a great conf! This talk starts at {startTime}."},"m":[]}},{"hashToLeaf":{"2891f97af317371207b8b3848ef47e12":{"text":"{=META stock} {=went up} {=today!}","desc":"complex sentence"}},"filepath":"src/FbtComponent.tsx","line_beg":45,"col_beg":8,"line_end":49,"col_end":14,"project":"","jsfbt":{"t":{"desc":"complex sentence","text":"{=META stock} {=went up} {=today!}","tokenAliases":{"=META stock":"=m0","=went up":"=m2","=today!":"=m4"}},"m":[]}},{"hashToLeaf":{"7484c057ba6d09998d688ae50047b658":{"text":"META stock","desc":"In the phrase: \"{=META stock} {=went up} {=today!}\""}},"filepath":"src/FbtComponent.tsx","line_beg":46,"col_beg":10,"line_end":46,"col_end":33,"project":"","jsfbt":{"t":{"desc":"In the phrase: \"{=META stock} {=went up} {=today!}\"","text":"META stock"},"m":[]}},{"hashToLeaf":{"afa5264fb1b6fed6167aa87fced704fc":{"text":"went up","desc":"In the phrase: \"{=META stock} {=went up} {=today!}\""}},"filepath":"src/FbtComponent.tsx","line_beg":47,"col_beg":10,"line_end":47,"col_end":57,"project":"","jsfbt":{"t":{"desc":"In the phrase: \"{=META stock} {=went up} {=today!}\"","text":"went up"},"m":[]}},{"hashToLeaf":{"281512d85efec6ec3609b0a2dab583b5":{"text":"today!","desc":"In the phrase: \"{=META stock} {=went up} {=today!}\""}},"filepath":"src/FbtComponent.tsx","line_beg":48,"col_beg":10,"line_end":48,"col_end":61,"project":"","jsfbt":{"t":{"desc":"In the phrase: \"{=META stock} {=went up} {=today!}\"","text":"today!"},"m":[]}}],"childParentMappings":{"4":3,"5":3,"6":3}}
+{
+  "phrases": [
+    {
+      "hashToLeaf": {
+        "d033409c79776121841ae87cbcc9400a": {
+          "text": "Welcome to React Native EU",
+          "desc": "label"
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 21,
+      "col_beg": 8,
+      "line_end": 21,
+      "col_end": 58,
+      "project": "",
+      "jsfbt": {
+        "t": { "desc": "label", "text": "Welcome to React Native EU" },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "ff63b2ecfe8cf91027cd3ae547183e21": {
+          "text": "You have {number of people} people watching",
+          "desc": "plural example"
+        },
+        "e8c3dae431139811d9a4b982d81d6d50": {
+          "text": "You have 1 person watching",
+          "desc": "plural example"
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 24,
+      "col_beg": 8,
+      "line_end": 35,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "*": {
+            "desc": "plural example",
+            "text": "You have {number of people} people watching"
+          },
+          "_1": {
+            "desc": "plural example",
+            "text": "You have 1 person watching"
+          }
+        },
+        "m": [{ "token": "number of people", "type": 2, "singular": true }]
+      }
+    },
+    {
+      "hashToLeaf": {
+        "84cc8493c4381fcd75befdc0dcc0c22e": {
+          "text": "What a great conf! This talk starts at {startTime}.",
+          "desc": "date interpolation"
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 38,
+      "col_beg": 8,
+      "line_end": 41,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "date interpolation",
+          "text": "What a great conf! This talk starts at {startTime}."
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "2891f97af317371207b8b3848ef47e12": {
+          "text": "{=META stock} {=went up} {=today!}",
+          "desc": "complex sentence"
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 45,
+      "col_beg": 8,
+      "line_end": 49,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "complex sentence",
+          "text": "{=META stock} {=went up} {=today!}",
+          "tokenAliases": {
+            "=META stock": "=m0",
+            "=went up": "=m2",
+            "=today!": "=m4"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "7484c057ba6d09998d688ae50047b658": {
+          "text": "META stock",
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\""
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 46,
+      "col_beg": 10,
+      "line_end": 46,
+      "col_end": 33,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\"",
+          "text": "META stock"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "afa5264fb1b6fed6167aa87fced704fc": {
+          "text": "went up",
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\""
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 47,
+      "col_beg": 10,
+      "line_end": 47,
+      "col_end": 57,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\"",
+          "text": "went up"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "281512d85efec6ec3609b0a2dab583b5": {
+          "text": "today!",
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\""
+        }
+      },
+      "filepath": "src/FbtComponent.tsx",
+      "line_beg": 48,
+      "col_beg": 10,
+      "line_end": 48,
+      "col_end": 61,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=META stock} {=went up} {=today!}\"",
+          "text": "today!"
+        },
+        "m": []
+      }
+    }
+  ],
+  "childParentMappings": { "4": 3, "5": 3, "6": 3 }
+}

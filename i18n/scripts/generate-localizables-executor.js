@@ -2,7 +2,7 @@
  * (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
  * This file is generated. Do not modify it manually!
  * @codegen-command : phps RepoSync intl_oss_fbt
- * @codegen-source : fbsource/xplat/intl/oss-fbt/rn-demo-app/i18n/scripts/generate-android-localizables-executor.js
+ * @codegen-source : fbsource/xplat/intl/oss-fbt/rn-demo-app/i18n/scripts/generate-localizables-executor.js
  * @generated SignedSource<<84f2daf1146f2a21b9825f3d7abfb3d7>>
  * Copyright (c) Meta Platforms, Inc. and affiliates.
  *

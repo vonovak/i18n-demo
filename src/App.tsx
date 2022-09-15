@@ -5,7 +5,7 @@ import { I18NextComponent } from "./i18NextComponent";
 import { FbtComponent } from "./FbtComponent";
 
 export function App() {
-  const numOfPeopleWatching = 2;
+  const numOfPeopleWatching = 6;
 
   return (
     <ScrollView
